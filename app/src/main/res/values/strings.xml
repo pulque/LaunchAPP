@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LaunchAPP</string>
+    <string name="prompt">选择时间和应用，点击添加即可。</string>
+    <string name="current_date">当前日期</string>
+    <string name="current_time">当前时间</string>
+    <string name="select_date">日期选择</string>
+    <string name="select_time">时间选择</string>
+    <string name="select_app">选择应用</string>
+    <string name="add">添加</string>
+</resources>
